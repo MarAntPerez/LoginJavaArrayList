@@ -1,0 +1,10 @@
+*.dev
+*.exe
+*.layout
+*.o
+*.win
+*.classpath
+*.project
+/bin
+/src
+/.settings
